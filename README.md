@@ -6,3 +6,6 @@
 win-xp [链接](https://github.com/etorth/winxp-zh)
 
 virtualbox [链接](https://www.virtualbox.org/wiki/Downloads)
+
+---------------------------
+缘来客户端用来提取新gfx资源。
